@@ -1,0 +1,3 @@
+rtsp_stolovaya = 'rtsp://admin:admin12345@192.168.56.130:554'
+rtsp2_servernaya = 'rtsp://admin:admin12345@192.168.56.122:554'
+rtsp3_parkovka = 'rtsp://admin:123456@192.168.81.21:554/mpeg4'
